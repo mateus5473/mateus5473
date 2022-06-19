@@ -7,7 +7,8 @@
 - 🎯 Focado nos estudos.
 ### "Algumas pessoas acham que foco significa dizer sim para a coisa em que você irá se focar. Mas não é nada disso. Significa dizer não às centenas de outras boas idéias que existem. Você precisa selecionar cuidadosamente."
 
-<h4><a href="http://www.apple.com"target="_blank">Steve Jobs</a></h4>
+<div align="left"><img width="390em" src="https://github-readme-stats.vercel.app/api?username=mateus5473&amp;show_icons=true&amp;theme=dark" style="max-width: 100%;"> 
+<div align="left"><img width="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus5473&amp;layout=compact&amp;theme=dark" style="max-width: 100%;"></div>
+<div align="center"><img width="40em" src="https://media0.giphy.com/media/3o6fJ5z2bgCLBshZUA/giphy.gif" alt=""></div>
+</div>
 
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=mateus5473&amp;show_icons=true&amp;theme=dark" style="max-width: 100%;">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus5473&amp;layout=compact&amp;theme=dark" style="max-width: 100%;">
